@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   margin: 0;
 }
 
@@ -29,7 +29,7 @@ body {
 }
 
 .one {
-  font-size: 4.5rem;
+  font-size: 4rem;
 }
 
 .two {
@@ -64,7 +64,7 @@ body {
   border-radius: 3px;
   bottom: -50px;
   color: #fff;
-  padding: .5rem 1rem;
+  padding: 0.5rem 1rem;
   position: absolute;
   right: 5px;
 }
@@ -86,14 +86,15 @@ body {
   font-size: 4rem;
 }
 
-.idea-5 span, .idea-6 span, .wish-hbd span {
+.idea-5 span,
+.idea-6 span,
+.wish-hbd span {
   display: inline-block;
 }
 
-.idea-6 span{
+.idea-6 span {
   font-size: 15rem;
 }
-
 
 .six {
   position: relative;
@@ -133,7 +134,8 @@ body {
   left: 30%;
 }
 
-.seven, .eight {
+.seven,
+.eight {
   height: 100vh;
   position: fixed;
   top: 0;
